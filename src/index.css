@@ -37,7 +37,7 @@ a{
   position: absolute;
   right: 80px;    
   margin-top: 50px;
-  z-index: 99999999999;
+  z-index: 99999999999999999;
 }
 
 .menu-btn button{
@@ -73,6 +73,7 @@ a{
 
  .header nav ul li{
    margin: 20px 0;
+   font-weight: bold;
  }
 
 
