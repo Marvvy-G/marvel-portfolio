@@ -37,7 +37,7 @@ a{
   position: absolute;
   right: 80px;    
   margin-top: 50px;
-  z-index: 9999999;
+  z-index: 99999999999;
 }
 
 .menu-btn button{
@@ -249,9 +249,9 @@ margin: 10px 0;
     grid-template-columns: 1fr;
   }
 }
+}
 
 @media(max-width: 270){
   .contacts ul{
     top: 35%;
   }
-}
