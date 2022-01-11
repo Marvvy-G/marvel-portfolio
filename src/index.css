@@ -54,7 +54,7 @@ a{
   right: 0;
   height: 0;
   overflow: hidden;
-  width: 200px;
+  width: 300px;
   transition: all 0.5s ease-in-out;
   z-index: 999999;
 }
