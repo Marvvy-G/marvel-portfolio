@@ -248,4 +248,8 @@ margin: 10px 0;
   .projects .cards {
     grid-template-columns: 1fr;
   }
+
+  .projects .cards p{
+    font-size: 15px;
+  }
 }
