@@ -249,9 +249,3 @@ margin: 10px 0;
     grid-template-columns: 1fr;
   }
 }
-}
-
-@media(max-width: 270){
-  .contacts ul{
-    top: 35%;
-  }
