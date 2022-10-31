@@ -6,7 +6,7 @@ export const projects =[
         title: "Mervert Boutique",
         desc: "An e-commerce solution. This is a sophisticated store front fashion tech solution. It allows customers to shop from the comfort of their home ",
         github: "https://github.com/Marvvy-G",
-        demo: "https://mervertboutique.com.ng",
+        demo: "#",
         image: "./images/Project-1.jpeg"
     },
     {
