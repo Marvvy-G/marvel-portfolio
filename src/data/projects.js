@@ -38,7 +38,7 @@ export const projects =[
         title: "Tech Clinic",
         desc: "Bringing Bioinformatics to life. This project inspired by an aspect of biomedical engineering is both a health solution and an administrative solution in the health industry. It allows clinician to carry out their daily activities with ease and speed",
         github: "https://github.com/Marvvy-G/EHR-full-Application-with-front-end",
-        demo: "https://techclinic.herokuapp.com/transitpage",
+        demo: "https://repulsive-teal-badger.cyclic.app/",
         image: "https://images.pexels.com/photos/4031688/pexels-photo-4031688.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ]
