@@ -22,7 +22,7 @@ export const projects =[
         title: "Bubmaq-g",
         desc: "A simple solution to a business website",
         github: "https://github.com/Marvvy-G/BubMaq-G",
-        demo: "https://mighty-peak-90783.herokuapp.com/",
+        demo: "https://bubmaqg.com/",
         image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
