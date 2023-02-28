@@ -30,7 +30,7 @@ export const projects =[
         title: "Marvvy Eats",
         desc: "This is a tech in food industry solution. This project solves the problem of food accessibility. It gives food vendor a platform to advertise their delicacies and allows them to meet hungry customers. Please view on laptop",
         github: "https://github.com/Marvvy-G/Eatery-Application",
-        demo: "https://marvvyeats.herokuapp.com/",
+        demo: "https://drab-teal-bluefish-cap.cyclic.app/",
         image: "https://images.pexels.com/photos/1483769/pexels-photo-1483769.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
