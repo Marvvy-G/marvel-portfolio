@@ -40,5 +40,12 @@ export const projects =[
         github: "https://github.com/Marvvy-G/EHR-full-Application-with-front-end",
         demo: "https://repulsive-teal-badger.cyclic.app/",
         image: "https://images.pexels.com/photos/4031688/pexels-photo-4031688.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+    id: uuidv4(),
+    title: "Jucko Global Store",
+    desc: "An e-commerce solution. This is a sophisticated store front ecommerce solution. It allows customers to shop from the comfort of their home",
+    demo: "https://jucko.com.ng",
+    image: "./images/juckostore.png"
     }
 ]
