@@ -17,6 +17,8 @@ export const projects =[
     //     demo: "https://calm-crag-04811.herokuapp.com/",
     //     image: "https://images.pexels.com/photos/3912477/pexels-photo-3912477.jpeg?auto=compress&cs=tinysrgb&w=600"
     // },
+
+
     {
         id: uuidv4(),
         title: "Bubmaq-g",
@@ -24,6 +26,14 @@ export const projects =[
         github: "https://github.com/Marvvy-G/BubMaq-G",
         demo: "https://bubmaqg.com/",
         image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        id: uuidv4(),
+        title: "Eyegate School",
+        desc: "Discover our vibrant school community! Where learning is fun, creativity thrives, and every student shines. Join us for an inspiring educational journey. Enroll today and unlock potential!",
+        github: "https://github.com/Marvvy-G/BubMaq-G",
+        demo: "https://eyegateschool.com.ng/",
+        image: "./images/school.jpg"
     },
     {
         id: uuidv4(),
@@ -46,6 +56,13 @@ export const projects =[
     title: "Jucko Global Store",
     desc: "An e-commerce solution. This is a sophisticated store front ecommerce solution. It allows customers to shop from the comfort of their home",
     demo: "https://jucko.com.ng",
-    image: "./images/juckostore.png"
-    }
+    image: "./images/newjuckoplaceholder.jpg"
+    },
+    {
+        id: uuidv4(),
+        title: "A Bus Ticketing System",
+        desc: "Get your bus tickets instantly with our easy-to-use system. Book, pay, and travel seamlessly. No queues, no hassle. Your journey starts here. Convenient, fast, and reliable.",
+        demo: "https://e-ticket-b9jv.onrender.com",
+        image: "./images/Bus_tic_System.jpg"
+        }
 ]
